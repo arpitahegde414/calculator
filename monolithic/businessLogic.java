@@ -1,7 +1,6 @@
 package monolithic;
 
 import java.util.Stack;
-
 public class businessLogic {
 	public double solve(String input) {
 		char[] tokens = input.toCharArray();
